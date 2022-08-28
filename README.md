@@ -10,7 +10,17 @@ In this project a mobile app is used to send messages to the arduino mega 2560 o
 * Arduino Mega 2560 (The code will be compatable with the Arduino uno as well)
 * Light bulb 
 * HC-05 bluetooth module
-* Single channel relay  
+* Single channel relay 
+
+
+### Mobile app:
+The mobile app is built using the Mit app inventor
+
+User interface:
+![image](https://user-images.githubusercontent.com/86454491/187058975-1f85e3fb-1640-4e21-9388-d1c49db5085d.png)
+
+Block code:
+![phone app code ](https://user-images.githubusercontent.com/86454491/187058998-a0f929cb-02ee-461d-8a4f-13805465d412.png)
 
 
 ### circuit diagram: 
