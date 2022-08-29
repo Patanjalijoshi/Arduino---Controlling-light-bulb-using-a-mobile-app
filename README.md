@@ -24,6 +24,7 @@ Block code:
 
 
 ### circuit diagram: 
+![Screenshot 2022-08-28 111708 (1)](https://user-images.githubusercontent.com/86454491/187220692-868d211d-98ce-4a9f-82c6-e0d772b5a95d.png)
 
 
 
