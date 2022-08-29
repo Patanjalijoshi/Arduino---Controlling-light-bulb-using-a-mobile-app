@@ -17,7 +17,7 @@ In this project a mobile app is used to send messages to the arduino mega 2560 o
 The mobile app is built using the Mit app inventor
 
 User interface:
-![image](https://user-images.githubusercontent.com/86454491/187058975-1f85e3fb-1640-4e21-9388-d1c49db5085d.png)
+![phone front screen](https://user-images.githubusercontent.com/86454491/187219413-74fe11d7-6cd1-4022-b318-0304e825d205.png)
 
 Block code:
 ![phone app code ](https://user-images.githubusercontent.com/86454491/187058998-a0f929cb-02ee-461d-8a4f-13805465d412.png)
