@@ -32,3 +32,6 @@ Block code:
 The code is written in C and the Arduino IDE is used to compile and write code on to the Arduino Mega 2560 
 
 ### Video:
+https://user-images.githubusercontent.com/86454491/187223706-1bd43283-a5cf-4eca-9ffe-41fd89a167df.mp4
+
+
