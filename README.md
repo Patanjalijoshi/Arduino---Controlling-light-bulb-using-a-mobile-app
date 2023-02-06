@@ -1,5 +1,5 @@
 # Arduino---Controlling-light-bulb-using-a-mobile-app
-In this project a mobile app is used to send messages to the arduino mega 2560 over a bluetooth connection to toggle a relay on or off. The lightbulbs operationg voltage is 220 volts so a relay is used to control it.
+This project uses a mobile app to send messages to the Arduino mega 2560 over a Bluetooth connection to toggle a relay on or off. The lightbulb's operating voltage is 220 volts so a relay is used to control it.
 
 
 
